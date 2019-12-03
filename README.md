@@ -21,7 +21,7 @@ Syntax highlighted code block
 ```
 
 ### 目录
-
+## [c++ rules](https://github.com/mingpuwu/mingpuwu.github.io/blob/master/doc/code_rules.md)
 
 
 ### Support or Contact
