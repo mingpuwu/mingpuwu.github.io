@@ -28,22 +28,22 @@
 - 命名空间全小写
 
 # UML
+### 依赖
+- 使用关系(局部变量、方法的参数、对静态方法的调用)
+![依赖](https://upload-images.jianshu.io/upload_images/16628722-89a9f914670089f8.png)
+### 关联
+- 整体和部分的关系，关联涉及的两个类在同一个层次上(成员变量)
+![关联](https://upload-images.jianshu.io/upload_images/16628722-92f84cb2b50052ab.png)
+### 聚合
+- 整体和部分的关系，可以分开，弱拥有关系(成员变量)
+![聚合](https://upload-images.jianshu.io/upload_images/16628722-31f866d3f7dea3dc.png)
+### 组合
+- 整体和部分的关系，不可分开，部分的生命周期和整体的生命周期同生死(new出来的)
+![组合](https://upload-images.jianshu.io/upload_images/16628722-694e896c65cd3351.png)
 ### 继承
 ![继承](https://upload-images.jianshu.io/upload_images/16628722-6e1f08d83deb27b7.png)
 ### 实现
 ![实现](https://upload-images.jianshu.io/upload_images/16628722-e136f4d97fea788e.png)
-### 组合
-- 整体和部分的关系，不可分开，部分的生命周期和整体的生命周期同生死(成员变量)
-![组合](https://upload-images.jianshu.io/upload_images/16628722-694e896c65cd3351.png)
-### 聚合
-- 整体和部分的关系，可以分开，弱拥有关系(成员变量)
-![聚合](https://upload-images.jianshu.io/upload_images/16628722-31f866d3f7dea3dc.png)
-### 关联
-- 整体和部分的关系，关联涉及的两个类在同一个层次上(成员变量)
-![关联](https://upload-images.jianshu.io/upload_images/16628722-92f84cb2b50052ab.png)
-### 依赖
-- 使用关系(局部变量、方法的参数、对静态方法的调用)
-![依赖](https://upload-images.jianshu.io/upload_images/16628722-89a9f914670089f8.png)
 ### Support or Contact
 
 
